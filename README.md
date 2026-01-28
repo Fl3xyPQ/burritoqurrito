@@ -1,4 +1,4 @@
-# 🌸 Radanky Bezpečné Místo
+# 🌸 XXX Bezpečné Místo
 
 **Speciální interaktivní webová stránka** - platonické bezpečné místo plné povzbuzení, vzpomínek a společných chvil.
 
@@ -97,7 +97,7 @@ Pro funkci **sdílené nástěnky** postupuj podle:
 **Řádek:** ~111
 
 ```javascript
-const ACCESS_CODE = "RadankaJirka2026"; // ← ZMĚŇ TOTO
+const ACCESS_CODE = "XXXXXX"; // ← ZMĚŇ TOTO
 ```
 
 ### Přidat vlastní komplimenty:
