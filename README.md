@@ -224,22 +224,13 @@ const correctAnswer = '42'; // ← Změň odpověď
 
 ---
 
-## 💖 Pro Radanku
 
-Toto místo je tvoje. Můžeš se sem vrátit kdykoliv potřebuješ:
-- Povzbuzení když je ti smutno
-- Uklidnění když jsi naštvaná
-- Zavzpomínat na krásné chvíle
-- Pobavit se hrou
-- Zapsat si svoje myšlenky
-
-**Nikdy nejsi sama. 💙**
 
 ---
 
 ## 📄 Licence
 
-Tato stránka je vytvořena speciálně pro Radanku.  
+Tato stránka je vytvořena speciálně pro XX. 
 Pro osobní použití. S láskou vytvořeno. 🌸
 
 ---
