@@ -404,6 +404,43 @@ body {
     font-weight: 300;
 }
 
+.farewell-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding: 1.25rem 2rem;
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 25%, #ff9a9e 50%, #a18cd1 75%, #fbc2eb 100%);
+    background-size: 300% 300%;
+    animation: farewell-shimmer 6s ease infinite;
+    border-radius: var(--radius-lg);
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 4px 20px rgba(252, 108, 133, 0.3);
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.farewell-message p {
+    font-size: clamp(0.95rem, 2.5vw, 1.15rem);
+    font-weight: 600;
+    color: #fff;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+    line-height: 1.6;
+}
+
+.farewell-icon {
+    font-size: 1.6rem;
+    flex-shrink: 0;
+}
+
+@keyframes farewell-shimmer {
+    0%   { background-position: 0% 50%; }
+    50%  { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
 .mood-cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
